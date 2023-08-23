@@ -4,9 +4,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 ## def 
 
@@ -16,4 +14,12 @@ In Pong, two players control paddles on opposite sides of the screen, and their 
 
 Pong became extremely popular and laid the foundation for many other video games that followed. Its simplicity and competitive gameplay made it a social phenomenon, attracting players to arcades and helping to establish the video game industry as a viable business. Over the years, Pong has been remade, adapted, and referenced in numerous forms, becoming an iconic symbol of early video gaming history.
 
+<br>
+<br>
+<br>
+
 <img src="/imgREADME/Pong.jpg">
+
+<br>
+<br>
+<br>
