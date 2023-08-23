@@ -1,0 +1,107 @@
+node is a tool to buidl backend service 
+
+chno hiya momayizat bach n5dem b node 
+o kayn la3bat akhrin n9ed n5dem bihom
+node sahla f 5edma ola bach tbda biha 
+"great for prototyping and agile development"
+hadi methods kytem isti5dam dyalha f bina2
+softwares and apps 
+"super fast and highly scalable"
+node js paypal :
+  build twice as fast with fewer people 
+  33% fewer lines of code 
+  40% fewer files 
+  2x request/sec
+  35% faster response time 
+javascript everywhere 
+cleaner and more consistent codebase
+large ecosystem of open-source libs 
+
+
+node architecture 
+
+node is a runtime environment for 
+executing javascript code 
+
+every browser fih js-engine kaya5od code
+li mektob b js o kay7awlo l code ky9ed computer yfahmo
+o yt3amel m3ah mzn  
+ex : microsoft edg ky5dem b engine smito chakra
+firefox : spiderMonkey 
+chrome : v8 
+bsbab had tanawo3 code js ky9ed ytsaref b methods 
+me5talfin mn browser l browser  
+
+browser ky9adem runtime environment  bach y5adem code 
+dyal js 
+
+before 2009 
+ can ghi b browser bo7do bach kat9ed t5adem 
+ js wlkn moraha ja wa7ed smito rayan dahl 
+ howa li jab lina node 
+ 5ad v8 engine dyal google chrom "kyt3taber 
+ asre3 engine mojod "
+ o dar lih tadmin f wa7ed software mektob 
+ b c++ o semah node 
+
+ node fih bzf dyal object kat3awnek bach 
+ t5dem fhad environment dev 
+
+ matalan f node m3ndnach document.getElemetByID()
+o 3ndna fs.readFile('')
+http.createServer('')
+
+
+how node work exactly :
+=> highly-scalable, data-intensice and realtime apps
+7it how non-blocking asynchronous 
+
+node is ideal for I/O intensive apps 
+don't use node for cpu-intensive apps 
+
+node module system 
+core modules : -os -fs -events -http
+
+//setTimeout() function kandiroha bach nstad3iw chi function 
+//mora chi wa9t mo7adad
+
+//clearTimeout()
+//setInterval()
+//clearInterval()
+
+//ay 7aja 3ndi raha mt3arfa f window example
+// console.log --> window.consol.log() engine kayzidha auto
+// f node m3ndnach window endna globalThis
+
+globalThis mkn9edch ndirha l  var li kan3arefhom ana
+
+kola file endek f program dyalek howa 3ibara 3la 
+module o ay avar mt3aref 3ndek f had module kaykon ghayr 
+mota7 f modules lakhrin 
+
+creating a module 
+
+module.exports
+require('path')
+
+
+path module 
+
+const path = require(path:node);
+
+
+filesystem modlule 
+
+
+event module 1:03
+
+
+
+
+
+
+
+
+
+
+
